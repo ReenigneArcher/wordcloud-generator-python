@@ -1,0 +1,6 @@
+html2text
+numpy
+Pillow
+readability-lxml
+requests
+# wordcloud # build broken
