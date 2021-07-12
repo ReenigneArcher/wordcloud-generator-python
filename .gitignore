@@ -1,0 +1,4 @@
+output.png
+.idea/*
+venv/*
+wheels/*
